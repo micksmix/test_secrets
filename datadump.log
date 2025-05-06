@@ -1,0 +1,13 @@
+# GitHub
+ghp_1wuHFikBKQtCcH3EB2FBUkyn8krXhP2qLqPa
+
+# GitLab
+glpat-ZtygEPJKup9H56Ex-F1z
+
+# Slack Webhook
+https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX
+
+slack app level token = xapp-1-A05V64V7F2B-6063360157732-9f01726eebe77df2c096a65e95accd02107b2c1e92ca314cff27ca891b7251b4
+
+# Generic password in env-var style
+DATABASE_PASSWORD="P@ssw0rd!SuperSecret"
