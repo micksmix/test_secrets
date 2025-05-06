@@ -1,8 +1,8 @@
 
 aws_config = {
     "default": {
-        "aws_access_key_id": "AKIA475TKMODKH3WGQ4S",
-        "aws_secret_access_key": "CtUBY+6JLZRZJoUEHn/i4DUgDFmgofZscv83g08Z",
+        "aws_access_key_id": "redacting this",
+        "aws_secret_access_key": "security team told me to redact this",
         "output": "json",
         "region": "us-east-2"
     }
